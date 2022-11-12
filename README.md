@@ -14,5 +14,6 @@ Utilizaremos para tales efectos una serie de datasets oficiales del gobierno nac
 de Boleto Electrónico), con datos disponibles anualmente desde 2020.
 
 Link web publicado para acceder mediante navegador sin necesidad de instalar POWER BI.
+
 https://app.powerbi.com/view?r=eyJrIjoiOTllYjNlYTUtNDkxMi00NTQ1LWE1NjctMmMxYTNmNTMxODg4IiwidCI6ImQyNzAyNmY0LTdkNjMtNGJjZi04YjE2LTBkNDc4MzMzZmRiYSJ9
 
